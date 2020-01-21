@@ -1,4 +1,4 @@
-# Android-Authorship-Attribution-
+# Android-Authorship-Attribution
 Android Malware Classification through Authorship Attribution Using FastText
 
 Authors: Arman Kabiri, Samin Fakharian
